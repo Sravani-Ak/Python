@@ -1,0 +1,9 @@
+# Variables store numerical data
+num1 = 15
+num2 = 25
+
+# The '+' operator adds numbers together
+result = num1 + num2
+
+# An f-string formatted print handles display cleanly
+print(f"The sum of {num1} and {num2} is {result}")
