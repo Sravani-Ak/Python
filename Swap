@@ -1,0 +1,8 @@
+a = "Apple"
+b = "Banana"
+print(f"Before swap: a = {a}, b = {b}")
+
+# Simultaneous assignment syntax
+a, b = b, a
+
+print(f"After swap: a = {a}, b = {b}")
